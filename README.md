@@ -1,3 +1,3 @@
 # Mobile-Development-Project-2
-QR is cmpleted.
+QR is completed.
 Invoice.py is done
